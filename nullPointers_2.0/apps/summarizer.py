@@ -14,7 +14,7 @@ import json
 
 # Hugging Face API details
 API_URL = "https://api-inference.huggingface.co/models/slauw87/bart_summarisation"
-headers = {"Authorization": f"Bearer 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"}
+headers = {"Authorization": f"Bearer hf_"}
 
 # Function to extract text from a PDF file
 def extract_text_from_pdf(file):

@@ -37,7 +37,7 @@ app.use(express.static('./scripts'));
 app.use(express.static('./apps'));
 
 app.use(session({
-  secret: 'e33b92145a61635ff2992e8a4fc6a33711d4365bd7f6000276855498196aed93',
+  secret: 'YOUR_SECRET',
   resave: false,
   saveUninitialized: true,
   cookie: { secure: false }

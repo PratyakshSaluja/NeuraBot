@@ -5,7 +5,7 @@ const fs = require('fs')
 // Admin login controller
 const adminLogin = (req, res) => {
     const { username, password } = req.body;
-    if (username === "nullPointers" && password === "123456") {
+    if (username === "" && password === "") {
         req.session.adminUsername = username;
         req.session.adminPassword = password;
         res.redirect('/admin/home');
