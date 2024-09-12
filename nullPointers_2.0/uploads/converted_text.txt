@@ -1,0 +1,60 @@
+
+
+Pratyaksh Saluja
+H(+91) 7988190105
+Bpratyakshsirsa@gmail.com
+About
+2023–2027
+(expected)
+BML Munjal University,
+B.Tech in Computer Science and Engineering (CSE), CGPA: 8.83 (current).
+Skills
+Programming
+Languages
+C++, Python, Java, JavaScript, HTML, CSS
+Databases  MySQL, MongoDB
+Data Analysis  NumPy, Pandas, Matplotlib, Seaborn
+ML/AI
+Frameworks
+Azure (exploring), TensorFlow, scikit-learn, Langchain/Huggingface (beginner)
+WebDev
+Frameworks
+Flask, Express.js, Streamlit (beginner)
+Projects
+Dec 2023Namami Gange (Chatbot).
+{
+Developed as part of SIH Finals 2023 (Hyderabad), aimed at spreading awareness among tourists and children
+about the Namami Gange program.
+{Designed and developed using HTML, CSS, and JavaScript.
+{Integrated with OpenAI-powered APIs via Flask to provide real-time responses based on user input.
+{Specifically trained to answer queries related to the Namami Gange program.GitHub Repo
+Aug 2023 -
+Current
+C++/Java Projects.
+{
+1. Breakout Ball Game (Java): Developed an engaging arcade-style game using Java, enhancingOOPand
+multithreadingskills.
+{Utilized libraries such as JFrame, ActionListener, and Graphics2D.GitHub Repo
+{2. Library Management System (C++/MySQL): Designed an efficient system with features like student
+management and book availability/borrowing.
+{Gained familiarity with SQL connectors and system libraries.GitHub Repo
+{3. Builder/Factory Patterns, C++11/17 Exploration
+{Created a pizza factory system using the static factory pattern.
+{Developed a simple calculative tree with post-order traversal utilizing C++17 features (std::optional).
+{Implemented  a  bank  account  system  leveraging  C++11  features  (auto,lambda expressions,
+std::unique_ptr,std::function).GitHub Repo
+June 2024CRUD Application.
+{Tech Stack: HTML, CSS, JavaScript (Express), Node.js, MySQL
+{
+Utilized HTML, CSS, and JavaScript for UI and routing (Express.js), with Node.js for runtime and MySQL for
+database management.
+{Streamlined the application to use a single stored procedure within the database for improved readability and
+reduced clutter.GitHub Repo(Stored Proc in readme.)
+Academic and Extracurricular Activities
+{SIH’23 Finalist (Team Leader), PS-1290
+{
+Achieved perfect 10-grades in both Object-Oriented Programming (Sem 1) and Data Structures and Algorithms
+(Sem 2).
+{Model United Nations - Design Team
+GitHub
+LinkedIn
