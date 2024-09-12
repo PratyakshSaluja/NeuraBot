@@ -13,33 +13,6 @@ passport.deserializeUser((obj, done) => {
 });
 
 // Google OAuth Strategy
-passport.use(new GoogleStrategy({
-    clientID: '',
-    clientSecret: '',
-    callbackURL: '/auth/google/callback'
-}, (accessToken, refreshToken, profile, done) => {
-    return done(null, profile);
-}));
-
-// Facebook OAuth Strategy
-passport.use(new FacebookStrategy({
-    clientID: 'FACEBOOK_APP_ID',
-    clientSecret: 'FACEBOOK_APP_SECRET',
-    callbackURL: '/auth/facebook/callback',
-    profileFields: ['id', 'displayName', 'email']
-}, (accessToken, refreshToken, profile, done) => {
-    return done(null, profile);
-}));
-
-// LinkedIn OAuth Strategy
-passport.use(new LinkedInStrategy({
-    clientID: 'LINKEDIN_CLIENT_ID',
-    clientSecret: 'LINKEDIN_CLIENT_SECRET',
-    callbackURL: '/auth/linkedin/callback',
-    scope: ['r_emailaddress', 'r_liteprofile']
-}, (accessToken, refreshToken, profile, done) => {
-    return done(null, profile);
-}));
 
 // Middleware to protect routes
 function ensureAuthenticated(req, res, next) {
